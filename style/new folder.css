@@ -1,3 +1,7 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
 .nevber{
     display: flex;
     border: 2px solid red;
